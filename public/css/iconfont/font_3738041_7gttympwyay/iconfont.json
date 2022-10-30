@@ -1,0 +1,198 @@
+{
+  "id": "3738041",
+  "name": "newproject",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "18044622",
+      "name": "搜索",
+      "font_class": "sousuo",
+      "unicode": "eed9",
+      "unicode_decimal": 61145
+    },
+    {
+      "icon_id": "18044623",
+      "name": "消息",
+      "font_class": "xiaoxi",
+      "unicode": "eeda",
+      "unicode_decimal": 61146
+    },
+    {
+      "icon_id": "18044624",
+      "name": "喜欢",
+      "font_class": "xihuan",
+      "unicode": "eedb",
+      "unicode_decimal": 61147
+    },
+    {
+      "icon_id": "18044625",
+      "name": "显示",
+      "font_class": "xianshi",
+      "unicode": "eedc",
+      "unicode_decimal": 61148
+    },
+    {
+      "icon_id": "18044626",
+      "name": "标签",
+      "font_class": "biaoqian",
+      "unicode": "eedd",
+      "unicode_decimal": 61149
+    },
+    {
+      "icon_id": "18044627",
+      "name": "券票",
+      "font_class": "quanpiao",
+      "unicode": "eede",
+      "unicode_decimal": 61150
+    },
+    {
+      "icon_id": "18044628",
+      "name": "图片",
+      "font_class": "tupian",
+      "unicode": "eedf",
+      "unicode_decimal": 61151
+    },
+    {
+      "icon_id": "18044629",
+      "name": "会员",
+      "font_class": "huiyuan",
+      "unicode": "eee0",
+      "unicode_decimal": 61152
+    },
+    {
+      "icon_id": "18044631",
+      "name": "首页",
+      "font_class": "shouye",
+      "unicode": "eee1",
+      "unicode_decimal": 61153
+    },
+    {
+      "icon_id": "18044632",
+      "name": "视频",
+      "font_class": "shipin",
+      "unicode": "eee2",
+      "unicode_decimal": 61154
+    },
+    {
+      "icon_id": "18044633",
+      "name": "设置",
+      "font_class": "shezhi",
+      "unicode": "eee3",
+      "unicode_decimal": 61155
+    },
+    {
+      "icon_id": "18044634",
+      "name": "文件",
+      "font_class": "wenjian",
+      "unicode": "eee4",
+      "unicode_decimal": 61156
+    },
+    {
+      "icon_id": "18044635",
+      "name": "我的",
+      "font_class": "wode",
+      "unicode": "eee5",
+      "unicode_decimal": 61157
+    },
+    {
+      "icon_id": "18044636",
+      "name": "邮箱",
+      "font_class": "youxiang",
+      "unicode": "eee6",
+      "unicode_decimal": 61158
+    },
+    {
+      "icon_id": "18044637",
+      "name": "删除",
+      "font_class": "shanchu",
+      "unicode": "eee7",
+      "unicode_decimal": 61159
+    },
+    {
+      "icon_id": "18044638",
+      "name": "红包",
+      "font_class": "hongbao",
+      "unicode": "eee8",
+      "unicode_decimal": 61160
+    },
+    {
+      "icon_id": "18044639",
+      "name": "文件夹",
+      "font_class": "wenjianjia",
+      "unicode": "eee9",
+      "unicode_decimal": 61161
+    },
+    {
+      "icon_id": "18044640",
+      "name": "打卡",
+      "font_class": "daka",
+      "unicode": "eeea",
+      "unicode_decimal": 61162
+    },
+    {
+      "icon_id": "18044641",
+      "name": "收藏",
+      "font_class": "shoucang",
+      "unicode": "eeeb",
+      "unicode_decimal": 61163
+    },
+    {
+      "icon_id": "18044642",
+      "name": "存储",
+      "font_class": "cunchu",
+      "unicode": "eeec",
+      "unicode_decimal": 61164
+    },
+    {
+      "icon_id": "18044643",
+      "name": "通知",
+      "font_class": "tongzhi",
+      "unicode": "eeed",
+      "unicode_decimal": 61165
+    },
+    {
+      "icon_id": "18044644",
+      "name": "提示",
+      "font_class": "tishi",
+      "unicode": "eeee",
+      "unicode_decimal": 61166
+    },
+    {
+      "icon_id": "18044645",
+      "name": "时间",
+      "font_class": "shijian",
+      "unicode": "eeef",
+      "unicode_decimal": 61167
+    },
+    {
+      "icon_id": "18044646",
+      "name": "拍照",
+      "font_class": "paizhao",
+      "unicode": "eef0",
+      "unicode_decimal": 61168
+    },
+    {
+      "icon_id": "18044647",
+      "name": "礼物",
+      "font_class": "liwu",
+      "unicode": "eef1",
+      "unicode_decimal": 61169
+    },
+    {
+      "icon_id": "18044648",
+      "name": "火热",
+      "font_class": "huore",
+      "unicode": "eef2",
+      "unicode_decimal": 61170
+    },
+    {
+      "icon_id": "18044649",
+      "name": "地址",
+      "font_class": "dizhi",
+      "unicode": "eef3",
+      "unicode_decimal": 61171
+    }
+  ]
+}
